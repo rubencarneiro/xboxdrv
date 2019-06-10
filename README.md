@@ -102,3 +102,5 @@ Documentation on xboxdrv-daemon, a daemon that will automatically
 launch xboxdrv when a pad is plugged in can be read via:
 
     man -l doc/xboxdrv-daemon.1
+
+    Update to nacon compact controller
